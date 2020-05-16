@@ -1,0 +1,11 @@
+{
+    "items": [{
+            "title": "Title1",
+            "thumbnail": "https://...image.png"
+        },
+        {
+            "title": "Title2",
+            "thumbnail": "https://...image2.png"
+        }
+    ]
+}
